@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Theme.SolecoMobile" parent="Theme.AppCompat.DayNight.NoActionBar">
+
+    </style>
+</resources>
